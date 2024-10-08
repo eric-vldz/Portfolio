@@ -1,0 +1,6 @@
+{
+  "API_KEY": "Insert API key here",
+  "API_SECRET_KEY": "Insert API secret key here",
+  "ACCESS_TOKEN": "Insert access token here",
+  "ACCESS_TOKEN_SECRET": "Insert access token secret here"
+}

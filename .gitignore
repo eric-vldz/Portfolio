@@ -1,0 +1,9 @@
+# Ignore IDE-specific files
+/PromptIDE - X/prompts.json
+
+# Ignore all cache files
+__pycache__
+live_congress_trading.egg-info
+
+# Ignore Specific File
+Laborforce Project - Resource.ipynb
